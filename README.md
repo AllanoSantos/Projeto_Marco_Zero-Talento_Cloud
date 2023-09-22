@@ -3,3 +3,4 @@
 ## 1° - Página falando do Marco Zero de Recife
 ## 2° - Adicionar mais uma página falando sobre outros pontos turísticos
 ## 3° - Customização usando CSS
+## 4° - Propriedades Flex Box aplicada em imagens
